@@ -17,6 +17,8 @@ function App() {
             </Routes>
         </BrowserRouter>
     );
+
+    console.log('last commit')
 }
 
 export default App;
