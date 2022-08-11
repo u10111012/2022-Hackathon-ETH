@@ -10,7 +10,8 @@ import {
 
 function App() {
 
-    console.log('first commit')
+    console.log('first commit');
+    console.log('second commit');
 
     return (
         <BrowserRouter>
